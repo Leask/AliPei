@@ -7,9 +7,9 @@
 	<key>Builder Version</key>
 	<string>8536.28.8</string>
 	<key>CFBundleDisplayName</key>
-	<string>AliPay</string>
+	<string>AliPei</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.leaskh.alipay</string>
+	<string>com.leaskh.alipei</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
